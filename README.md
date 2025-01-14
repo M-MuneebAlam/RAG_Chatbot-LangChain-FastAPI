@@ -1,6 +1,4 @@
-Here is a clean and simple `README.md` file for your project:  
-
-# Basic RAG System with FastAPI
+ # Basic RAG System with FastAPI
 
 This project demonstrates a simple Retrieval-Augmented Generation (RAG) system built using **FastAPI**, **Pinecone**, and **Google Generative AI**. It allows users to upload documents (PDF/DOCX), index their contents for efficient retrieval, and query the indexed documents to receive AI-generated responses.
 
@@ -130,13 +128,3 @@ This project uses the following Python libraries:
 Refer to `requirements.txt` for the full list.
 
 ---
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Acknowledgements
-
-Special thanks to [Pinecone](https://www.pinecone.io/) and [Google Generative AI](https://cloud.google.com/ai) for their powerful APIs that make this project possible.
