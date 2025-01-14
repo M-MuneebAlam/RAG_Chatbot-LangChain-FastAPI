@@ -1,3 +1,4 @@
+# Basic RAG System with FastAPI
  # Basic RAG System with FastAPI
 
 This project demonstrates a simple Retrieval-Augmented Generation (RAG) system built using **FastAPI**, **Pinecone**, and **Google Generative AI**. It allows users to upload documents (PDF/DOCX), index their contents for efficient retrieval, and query the indexed documents to receive AI-generated responses.
